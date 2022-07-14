@@ -67,21 +67,37 @@ Describir el uso de las formas de onda de carga y descarga en aplicaciones simpl
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859084-a02cb315-86bb-43c3-be2b-ac3277d7d265.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179037318-d3a2705c-8429-448a-a04e-fa437f60e23d.png)
+
+
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
 
+![imagen](https://user-images.githubusercontent.com/105812540/179037385-a4dd6686-6b56-4c1f-8d57-73641aa998a1.png)
+
+
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+
+![imagen](https://user-images.githubusercontent.com/105812540/179037469-6a727c10-b9f1-46f6-acf5-4424a43154e5.png)
 
 8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859387-37b4e29f-9ca7-4163-81c7-88a40738de16.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179037542-8cf57f95-4f9d-46b6-b0cb-0b6240998628.png)
+
+
 10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859469-8cb49b25-e46d-4fab-a15c-e49b6d3a7e95.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179037601-9b33ab5d-112b-4a41-9e8d-2e640cbf43fb.png)
+
 12. Cambie los siguientes valores angulares de radianes a grados:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859605-2fd0ebe9-6d57-44bf-835d-71a1b5a4cc1f.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179037728-cfc6facc-1bfc-4865-8871-2904a87849a9.png)
+
 
 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
 
@@ -89,19 +105,63 @@ Describir el uso de las formas de onda de carga y descarga en aplicaciones simpl
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859713-9de03e08-435e-4a77-b6bb-c60bcd2bba49.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179037825-e85c7d4a-6112-484a-999d-19f6d9cbe9c6.png)
+
+
 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859752-47c227c4-5594-4730-8fcc-feb3dc6a7f81.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179038029-dd0e53a7-ab2c-4772-818d-fec2f6defdb4.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038065-c11dfd42-363f-4851-903e-9ccde50a79a1.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038126-c8a06ec7-5315-457d-98b1-fc177941da36.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038268-30730711-0092-43df-a525-54453ca7c1c4.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038315-5a3689dd-d004-44ec-ba6e-a171c9effbd5.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038352-cb0cfe2e-6d32-433b-a522-8704617b9142.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038386-8148f05d-0372-429c-a543-47ce77e17cde.png)
+
+
+
 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038663-acf4c725-8d83-4c9e-95ea-48b890943e75.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038723-a9565924-b3f5-4ac6-b88b-7cb5a336331b.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038770-e480ad65-c5da-49a9-a649-46476f4cd2b5.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038813-931662d7-c89f-41ad-923f-59a6ef7e965e.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038863-a31fef27-97fa-4aba-8754-0e72866af675.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179038915-dc11ddda-046e-437b-9a09-082afdbea289.png)
+
+
 
 22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859835-b8154f36-858d-4d26-b382-625bace136f3.png)
 
+
+
 24. Determine la frecuencia para cada velocidad angular:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859905-754120b4-a976-48c5-96a7-bc5e20f3d3e2.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179039008-4818f5fd-27c3-44db-b341-21705ff855b9.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179039053-6418fe2a-86aa-4260-9de2-f524aa743519.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179039104-a33b9aa7-543a-4770-be88-2f53674d52d9.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179039226-e7dbd6d9-b765-4ec6-8007-2de963fe05eb.png)
+
 
 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
 
