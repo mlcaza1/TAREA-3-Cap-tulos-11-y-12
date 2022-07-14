@@ -232,23 +232,44 @@ Describir el uso de las formas de onda de carga y descarga en aplicaciones simpl
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860672-043ff6db-c807-4188-a38c-a4d78cda2bd9.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179041169-e9b75dda-e51c-42ee-a46b-83c40919433d.png)
+
 4. Transforme los siguientes valores de farads a microfarads;
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860714-b76125aa-dace-473b-b7a5-cc194eaadbc6.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179041296-7ea8b458-4087-4ff6-9cec-52fd261e2d6a.png)
+
+
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
+
+![imagen](https://user-images.githubusercontent.com/105812540/179041345-a222257d-e8ee-4aaf-bc6a-8bbe527ed5f8.png)
+
 
 8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.¿Cuál es la capacitancia?
 
+![imagen](https://user-images.githubusercontent.com/105812540/179041403-c67c710f-6608-41aa-bd67-f3317dd914ae.png)
+
+
 10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er  2.5) de 8  105 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?
+
+![imagen](https://user-images.githubusercontent.com/105812540/179041466-e7617f17-8775-4c94-8993-92385c191116.png)
+
 
 12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
 
+![imagen](https://user-images.githubusercontent.com/105812540/179041521-b96f90cb-e7eb-4cb3-b893-64275da167ed.png)
+
+
 14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
+
+Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí para incrementar el área de placas.
 
 16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860778-7e7f041e-3d15-4816-9d98-20c86fc3f06e.png)
+
+
 
 18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
 
@@ -256,64 +277,126 @@ Describir el uso de las formas de onda de carga y descarga en aplicaciones simpl
 
 20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
 
+![imagen](https://user-images.githubusercontent.com/105812540/179041818-5f6351fd-7f03-4eb6-8ec6-9233d647a345.png)
+
+
 22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860906-b3364d80-cefe-4074-a11b-f1aa9d9104a4.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179041857-968c2897-82e5-4066-99be-5a3c0ccfd276.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179041884-eeff76a5-6537-4cdc-966c-fea44a6e0f49.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179041906-d1700222-b198-4873-8401-7c93557fd4cf.png)
+
 
 24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860963-af8dafd6-30c9-4084-afa5-77bcd2bc6c4b.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179041933-a370ad38-b17e-4b85-9dd4-22c9840a60c5.png)
+
+
 26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861061-35bacc4b-360a-4bd4-a408-02afb8dbbe28.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179041962-a7c93f0b-34e9-402e-87eb-6d8fa52070b6.png)
+
+Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí para incrementar el área de placas.
 
 28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861124-a135dd04-da3b-4054-9c0f-ef9503aecb7c.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179042005-5cfeded8-fb98-46e2-8a3b-015fa6526d63.png)
+
+
 30. Determine la constante de tiempo para cada una de las combinaciones en serie:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861209-bae85844-4753-4b76-9185-351e86b3e345.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042051-6465fa90-3a75-4e6e-bbbf-9bbe54ec6eaf.png)
 
 
 32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861281-a4f7bfc7-5a10-43bf-8f31-e1a12249b14c.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179042072-a9dfea6c-ce6b-43b4-8d88-a82694807888.png)
+
+
 34. Repita el problema 32 con los siguientes intervalos de tiempo:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861496-239eea18-2269-4076-a1e0-35149734af80.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042098-e09cb934-9a1c-49b2-b9e7-8c7900e7d584.png)
+
 
 36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861522-87193dbe-69d8-47cf-9ba9-54ae4ab3d5dc.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179042120-c9285f59-580d-426f-8135-983a3229da1a.png)
+
+
 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861593-ec8a2ee3-0498-42f7-b9e1-83af90c35e7d.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042143-f7779f18-0bc2-414d-ae23-d620a86947f5.png)
+
 
 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t  10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861668-000af429-0a88-4dd9-98b9-ca6b5285ecd9.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179042167-9027ff39-48a0-4c39-aae7-d9c9c3baf968.png)
+
+
 42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861726-0a0d85aa-b8b4-4925-a6e5-a43b16486ee8.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179042211-99528150-0076-4119-9389-72c2ea282f18.png)
+
+
 44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una XC de 1 kÆ?
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042235-1c7de65f-0a7c-4516-9d79-cfb32e9b127e.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042343-dad1744e-73c9-4f53-adfa-1b99b875ec1b.png)
+
 
 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
+![imagen](https://user-images.githubusercontent.com/105812540/179042409-55b870cc-65cc-4603-abaa-670bc27d3227.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042427-efe63c51-a48f-4a20-9ec5-f1d921ab6a77.png)
+
+
 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042449-32b649a2-5035-494b-9426-5214ed85c80a.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042461-c7c6938d-69bd-4e4a-8507-688b118c10af.png)
+
 
 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178861864-eb9b53fa-306d-454e-b0d0-daa3d1c32272.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179042493-6276af5b-54c0-42d2-8f5e-3ba2632354df.png)
+
+
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz.¿Qué valor de resistor se emula?
+
+
+![imagen](https://user-images.githubusercontent.com/105812540/179042541-a2431b5f-1661-4a53-91f0-49f82b529b5c.png)
+
 
 # Video Explicativo 
 
