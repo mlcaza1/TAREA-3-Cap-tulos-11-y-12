@@ -27,8 +27,6 @@ Calcular constantes de tiempo.
 
 Describir el uso de las formas de onda de carga y descarga en aplicaciones simples de temporización.
 
-Resolver problemas simples de transitorios rc con pspice y Multisim
-
 
 # Marco Teorico 
 
