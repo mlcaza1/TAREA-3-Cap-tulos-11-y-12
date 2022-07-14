@@ -48,9 +48,16 @@ Resolver problemas simples de transitorios rc con pspice y Multisim
 
 ![cap7-8(17)](https://user-images.githubusercontent.com/105812540/178902564-dca24443-d5f2-414c-93aa-e2782cb4d494.jpg)
 
+![imagen](https://user-images.githubusercontent.com/105812540/178902855-913a6d6e-5cee-4662-8606-b68a38efdf4d.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/178902892-48e2cd88-c59a-4e7c-94b7-97a7fe5fc1f1.png)
+
+![cap7-8(18)](https://user-images.githubusercontent.com/105812540/178905122-2ee59a09-3d42-48f7-a8fe-eaac3b413dc5.jpg)
 
 
+![cap7-8(19)](https://user-images.githubusercontent.com/105812540/178906206-c177969c-99c1-4580-877e-f6dda8cb96f1.jpg)
 
+![cap7-8(20)](https://user-images.githubusercontent.com/105812540/178907197-d67abc57-3c55-4880-9d1e-e2e21a03bf96.jpg)
 
 
 
