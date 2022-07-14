@@ -38,6 +38,20 @@ Resolver problemas simples de transitorios rc con pspice y Multisim
 
 ![cap7-8(12)](https://user-images.githubusercontent.com/105812540/178885743-d7abafc0-04c4-4db5-a2ef-ed02a3a9b05c.jpg)
 
+![cap7-8(13)](https://user-images.githubusercontent.com/105812540/178893850-66bd7667-795c-4372-91fa-d1946630d245.jpg)
+
+![cap7-8(14)](https://user-images.githubusercontent.com/105812540/178896226-9ca90f7a-3fdd-40e1-afe1-499abd4f0834.jpg)
+
+![cap7-8(15)](https://user-images.githubusercontent.com/105812540/178901285-8be2b193-5b96-4806-ac5a-32234dbaacf0.jpg)
+
+![cap7-8(16)](https://user-images.githubusercontent.com/105812540/178901307-7aaa5636-6eed-4f61-a142-5b68b9d87b81.jpg)
+
+![cap7-8(17)](https://user-images.githubusercontent.com/105812540/178902564-dca24443-d5f2-414c-93aa-e2782cb4d494.jpg)
+
+
+
+
+
 
 
 # Desarrollo de ejercicios 
