@@ -167,32 +167,54 @@ Describir el uso de las formas de onda de carga y descarga en aplicaciones simpl
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859940-83dc696f-1313-4b71-acac-75a46ab1e018.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179039507-b02478e7-e6d0-4c23-bcbd-88afdb042ce3.png)
+
+
 28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178859981-6e502ffb-2f0c-4c8d-b99f-d75e66c0e989.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179039562-cc5ac9fd-e401-49e7-83f1-23e30e9af72f.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179039593-f9163e20-dc9d-4715-847f-9bbc0c62cbb8.png)
+
+
 30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
+
+![imagen](https://user-images.githubusercontent.com/105812540/179039673-3758836b-2f29-47e1-ab4e-c8567953f4c4.png)
+
 
 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860056-3e66f0ee-32a2-4d2a-b095-08c5d3a8b6af.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179039743-cc9a9fd1-49dc-4a21-9251-5c9f10f9f178.png)
+
 
 34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?
+
+![imagen](https://user-images.githubusercontent.com/105812540/179039802-4257eae8-a444-41fa-aa81-db93aff7ab94.png)
 
 
 36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860155-9bf41da9-cbaa-4c2a-b434-85df6dae27a7.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179039855-31f03107-f884-485a-9f3c-1465a8d48375.png)
+
 
 38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860158-3806f354-d7af-44fc-8df3-ac7ecba082d7.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/179039921-71066c64-4515-4d3b-9994-3efc20a8040e.png)
+
+
 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860212-9c9d3258-5fa4-49a5-9663-0364bffb5961.png)
+
+
 
 42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
 
@@ -200,6 +222,9 @@ Describir el uso de las formas de onda de carga y descarga en aplicaciones simpl
 44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/178860305-e8f63705-ca06-4596-95d2-6925048d5b82.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/179040026-9e5b84ee-bea2-457f-af60-98e62a56c650.png)
+
 
  # Capitulo 12
 
