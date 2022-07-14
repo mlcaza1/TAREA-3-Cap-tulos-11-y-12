@@ -238,6 +238,22 @@ Resolver problemas simples de transitorios rc con pspice y Multisim
 
 # Conclusiones 
 
+Se usa τ_C para representar la constante de tiempo para la carga y τ_d para representar la constante de tiempo para la descarga. Ya que la resistencia y capacitancia equivalente para la descarga pueden ser diferentes que para la carga, las constantes de tiempo también pueden ser diferentes en los dos casos.
+   
+Cuando se resuelve un problema de transitorio con múltiples operaciones de interruptores, siempre se debe dibujar el circuito como se ve durante cada intervalo de tiempo de interés.
+    
+Cuando un capacitor se coloca entre una fuente de cd, excepto por un breve transitorio, la corriente es cero.
+
+Un electroimán es básicamente una bobina de alambre alrededor de un núcleo magnético.
+ 
+Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
+    
+Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro.
+   
+Campo alrededor de un conductor que lleva corriente. Si la corriente se invierte, el campo permanece concéntrico pero la dirección de las líneas de flujo ira en sentido contrario.
+   
+La orientación aleatoria de los campos microscópicos en un material ferromagnético no magnetizado. Las pequeñas regiones se llaman dominios.
+
 
 # Bibliografia 
 
