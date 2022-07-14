@@ -9,15 +9,34 @@ Nombre: Marlon Luis Caza Soto
 NRC: 7309
 
 # Objetivos
+Explicar por qué los transitorios ocurren en circuitos RC
 
+Explicar por qué un capacitor descargado parece como un cortocircuito cuando se energiza por primera vez.
+
+Describir por qué un capacitor parece un circuito abierto en estado estable de cd.
+
+Describir la carga y descarga de circuitos RC simples con excitación de cd.
+
+Determinar los voltajes y corrientes en circuitos RC simples durante la carga y descarga.
+
+Graficar el voltaje y transitorios de corriente.
+
+Entender el papel que desempeñan las constantes de tiempo en determinar la duración de los transitorios.
+
+Calcular constantes de tiempo.
+
+Describir el uso de las formas de onda de carga y descarga en aplicaciones simples de temporización.
+
+Resolver problemas simples de transitorios rc con pspice y Multisim
 
 
 # Marco Teorico 
 
-# Capitulo 11
+![cap7-8(10)](https://user-images.githubusercontent.com/105812540/178883756-d25915fa-70e0-4b21-b356-11a48eed4338.jpg)
 
+![cap7-8(11)](https://user-images.githubusercontent.com/105812540/178884659-efacd184-83b4-470b-ab0a-828d4d995bad.jpg)
 
-# Capitulo 12
+![cap7-8(12)](https://user-images.githubusercontent.com/105812540/178885743-d7abafc0-04c4-4db5-a2ef-ed02a3a9b05c.jpg)
 
 
 
