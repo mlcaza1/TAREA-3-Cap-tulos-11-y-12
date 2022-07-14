@@ -400,7 +400,7 @@ Las laminillas metálicas forman la placa, con las laminillas alternas conectada
 
 # Video Explicativo 
 
-
+https://www.youtube.com/watch?v=4O-yzZYfXdI
 
 # Conclusiones 
 
